@@ -1,3 +1,6 @@
 i an a boy;
 and  you ???
+<<<<<<< HEAD
 if you know!!!
+=======
+>>>>>>> origin/master
